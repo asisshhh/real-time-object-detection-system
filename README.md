@@ -18,3 +18,6 @@ opencv-python for image/video processing
 
 matplotlib for visualization
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
